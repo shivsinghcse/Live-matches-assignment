@@ -1,0 +1,11 @@
+export { default as DashboardIcon } from "./DashboardIcon";
+export { default as UserIcon } from "./UserIcon";
+export { default as EditIcon } from "./EditIcon";
+export { default as ChartIcon } from "./ChartIcon";
+export { default as GlobeIcon } from "./GlobeIcon";
+export { default as MenuIcon } from "./MenuIcon";
+export { default as Shuttelcock } from "./Shuttelcock";
+export { default as PingPong } from "./PingPong";
+export { default as CricketBall } from "./CricketBall";
+export { default as TennisBall } from "./TennisBall";
+export { default as BasketBall } from "./BasketBall";
